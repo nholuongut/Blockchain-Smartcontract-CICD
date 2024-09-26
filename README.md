@@ -115,9 +115,11 @@ cdk destroy
 ```
 2. Go to the Cloudformation console and delete the stack with the name “AMB-CICD-Blog-Stack”.
 
-[Contact an Author]
-* [Name: Nho Luong ]
+### [Contact an Author]
+* [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
